@@ -1,2 +1,2 @@
 # responsive Quiz Web App With 
-### HTML. CSS and JavaScript.
+### HTML, CSS and JavaScript
